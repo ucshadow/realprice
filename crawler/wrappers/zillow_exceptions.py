@@ -1,0 +1,2 @@
+class BaseZillowAPIException(Exception):
+    pass
