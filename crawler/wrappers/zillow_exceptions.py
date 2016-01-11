@@ -1,2 +1,2 @@
-class BaseZillowAPIException(Exception):
+class ZillowWrapperException(Exception):
     pass
